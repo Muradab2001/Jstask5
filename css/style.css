@@ -1,0 +1,41 @@
+.main h1{
+    font-size: 2rem;
+}
+.main button{
+    padding: 0.8rem;
+    font-size: 1.6rem;
+}
+.main input{
+    margin-bottom: 1rem;
+    padding: 0.6rem 5rem;
+    font-size: 2rem;
+}
+.boxes h2{
+    font-size: 2rem;
+    border-radius: 15px;
+    padding: 0.8rem;
+    background-color: blueviolet;
+    color: black;
+    width: 70%;
+    margin: auto;
+
+}
+.boxes .box{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: black;
+    color: white;
+    width: 40%;
+    margin: auto;
+    border-radius: 10px;
+    margin-top: 1rem;
+}
+.boxes .box i{
+    font-size: 2rem;
+    cursor: pointer;
+    margin-right: 10px;
+}
+.boxes .box h1{
+    margin-left: 10px;
+}
